@@ -10,7 +10,7 @@ let pingtaizongzhi = 0;
 
 
 
-const contractAddress = "0x00f57E62868dCf4c05fC8F5c77dF10f01122a9e5";  
+const contractAddress = "0xE29c9e21f768630bb77f58b787dDffa8367E62Ab";  
 
 
 
